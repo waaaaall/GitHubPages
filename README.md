@@ -1,4 +1,4 @@
-# githubpages
+# GitHubPages
 
 ## Project setup
 ```
